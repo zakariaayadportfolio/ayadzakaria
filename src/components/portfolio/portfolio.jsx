@@ -10,7 +10,7 @@ const data =[
     id: 1,
     image : IMAGE1,
     title: 'Fitness Pro | Coaching Programmes & Supplements Store',
-    github: 'https://github.com/AyadZakaria/Fitness-Pro.git',
+    github: 'https://github.com/AyadZakaria/FitnessPro',
     demo : 'https://dribbble.com/shots/18839250-Fitness-Coaching-Supplements-Store?added_first_shot=true'
   },
 
