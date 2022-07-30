@@ -18,7 +18,7 @@ const data =[
     id: 2,
     image : IMAGE2,
     title: 'Gofa Lik | Digital Grocery Store With Delivery & Complete Payment System',
-    github: 'https://github.com/AyadZakaria/Gofa-Lik.git',
+    github: 'https://github.com/AyadZakaria/GofaLik',
     demo : 'https://dribbble.com/shots/18839266-Gofa-Lik-Digital-Grocery-Store'
   },
 
