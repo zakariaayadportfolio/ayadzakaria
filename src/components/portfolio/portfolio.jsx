@@ -3,6 +3,7 @@ import './portfolio.css'
 import IMAGE1 from '../../assets/Fitness-Pro.PNG'
 import IMAGE2 from '../../assets/Gofa-Lik.PNG'
 import IMAGE3 from '../../assets/igs.PNG'
+import IMAGE4 from '../../assets/TodoListPortfolio.png'
 
 
 const data =[
@@ -28,6 +29,13 @@ const data =[
     title: 'IGS | Ista Great Steps School Clubs Blog & Meetings Schedule',
     github: 'https://github.com/AyadZakaria/igs',
     demo : 'https://dribbble.com/shots/18839425-School-Clubs-Blog-meetings-schedule'
+  },
+  {
+    id: 4,
+    image : IMAGE4,
+    title: 'TaskMaster | Simple Laravel Todo List',
+    github: 'https://github.com/AyadZakaria/LaravelTodoList',
+    demo : 'https://dribbble.com/shots/20565399-TaskMaster-Simple-TodoList-App-Nice-And-Clean-Designe'
   }
 ]
 const portfolio = () => {
