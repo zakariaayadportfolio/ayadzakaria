@@ -38,9 +38,8 @@ header{
 
 /*================== img ==================*/
 .me{
-    background: linear-gradient(var(--primary-color), transparent);
-    width: 22rem;
-    height: 30rem;
+    background: linear-gradient(var(--color-primary), transparent);
+    width: 18rem;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);

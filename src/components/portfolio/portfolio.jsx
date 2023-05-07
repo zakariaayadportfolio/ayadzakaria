@@ -68,7 +68,7 @@ const portfolio = () => {
                 </a>
                 <a href={demo} target="_blank" className="btn btn-primary">
                   {" "}
-                  Live demo
+                  Dribbble
                 </a>
               </div>
             </article>
